@@ -26,7 +26,9 @@
 📌 Implemented Using:
 
 📍 DSA techniques – Graphs (Dijkstra, Kruskal, AVL Trees, Union-Find)
+
 📍 Sorting & Searching – Bubble, Merge, Selection, Insertion, Heap Sort, KMP, Boyer-Moore
+
 📍 Data Structures – Arrays, Stacks, Queues, DFS, BFS, Lookup Tables
 
 📊 Optimized for efficiency & accessibility 🚀 #HealthTech #DSA #GraphAlgorithms"
