@@ -8,19 +8,23 @@
 👨‍⚕ Patient | 👩‍⚕ Doctor | 🏥 Lab Personnel | 💊 Pharmacist
 
 🩺 Patients Can:
+
 ✔ Search doctors by rating, proximity, or experience
 ✔ Read doctor reviews & get fee estimates
 ✔ Book appointments seamlessly
 
 👨‍⚕ Doctors Can:
+
 ✔ Manage doctor records (Add/Delete/List)
 
 🧪 Labs & Pharmacy:
+
 ✔ Register labs & search nearest ones
 ✔ MST-based lab network analysis
 ✔ Find 24/7 & scheduled pharmacies
 
 📌 Implemented Using:
+
 📍 DSA techniques – Graphs (Dijkstra, Kruskal, AVL Trees, Union-Find)
 📍 Sorting & Searching – Bubble, Merge, Selection, Insertion, Heap Sort, KMP, Boyer-Moore
 📍 Data Structures – Arrays, Stacks, Queues, DFS, BFS, Lookup Tables
