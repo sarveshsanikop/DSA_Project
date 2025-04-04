@@ -1,5 +1,5 @@
 # DSA_Project
-"🚑 Health Connect Application – A comprehensive DSA-based healthcare solution! 💡
+"🚑 Health Connect Application – A comprehensive DSA-based healthcare solution! 
 
 🔐 Secure Login & Sign-Up powered by Knuth-Morris-Pratt ensures fast and safe access.
 🚑 Ambulance Service efficiently navigated using Dijkstra's Algorithm.
