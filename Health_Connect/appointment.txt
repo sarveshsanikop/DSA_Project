@@ -1,0 +1,16 @@
+
+Doctor: hajs
+Patient: hsasbj
+Age: 54
+Doctor: ram
+Patient: sar
+Age: 54
+Doctor: ram
+Patient: sar
+Age: 45
+Doctor: ravi
+Patient: ram
+Age: 50
+Doctor: rahul
+Patient: prithvi
+Age: 19

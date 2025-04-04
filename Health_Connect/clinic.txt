@@ -1,0 +1,68 @@
+1 Agharwal Pediatrician
+5 Singh   Pediatrician
+10 M.Kapoor Pediatrician
+13 A.Kapoor Pediatrician
+6 Reddy    Pediatrician
+7 Mehra  Pediatrician
+13  P.Sharma Gynecologist
+0 R.Sharma Gynecologist
+6 N.Sharma Gynecologist
+3 A.Sharma Gynecologist
+7 K.Sharma Gynecologist
+11 S.Sharma Gynecologist
+12 A.Kapoor  Psychiatrist
+8 S.Verma Psychiatrist
+4 S.Patel Psychiatrist
+5 N.Patel Psychiatrist
+1 N.Verma Psychiatrist
+10 K.Kapoor Psychiatrist
+2 N.Patel Cardiologist
+7 A.Gupta Cardiologist
+11 K.Mehra Cardiologist
+8 R.Mehra Cardiologist
+9 A.Singh Cardiologist
+6 P.Patel Cardiologist
+
+1 Kumar Neurologist
+2 Patel Neurologist
+7 Aryan.Reddy Neurologist
+13 K.Reddy Neurologist
+6 Mehra Neurologist
+5 Aman.Reddy Neurologist
+
+4 Gupta Physicians
+8 S.Reddy Physicians
+9 G.Singh Physicians
+4 M.Singh Physicians
+10 P.Reddy Physicians
+
+11 Singh Dermatologist
+13 N.Kapoor Dermatologist
+14 Rohan.Kapoor Dermatologist
+6 Gupta Dermatologist
+7 Ritu.Kapoor Dermatologist
+
+4 Sunita.Mehra Ophthalmologist
+3 Sanjay.Mehra Ophthalmologist
+1 Sanya.Verma Ophthalmologist
+5 Sameer.Verma Ophthalmologist
+9 Sharma Ophthalmologist
+
+0 Reddy Orthopaedist
+1 Singh Orthopaedist
+5 Verma Orthopaedist
+8 Mehra Orthopaedist
+9 Kapoor Orthopaedist
+
+
+3  N.Verma Dentist
+14 V.Verma Dentist
+12 P.Reddy Dentist
+10 S.Patel Dentist
+4 V.Patel Dentist
+
+8 Kapoor ENT
+9  A.Gupta ENT
+11 R.Gupta ENT
+6  N.Mehra ENT
+2  Gupta ENT

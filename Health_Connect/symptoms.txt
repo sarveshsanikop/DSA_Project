@@ -1,0 +1,20 @@
+Head pain sensitivity to light and noise,Headache,High,Aspirin
+High temperature body aches fatigue,Fever,Moderate,Ibuprofen
+Headaches dizziness chest pain,Hypertension,High,Lisinopril
+Coughing shortness of breath chest discomfort,Cough,Moderate,CoughSyrup
+Frequent urination increased thirst fatigue,Diabetes,High,Insulin
+Shortness of breath wheezing chest tightness,Asthma,High,Ventolin
+Sneezing itching nasal congestion,Allergies,Moderate,Claritin
+Joint pain stiffness swelling,Arthritis,Moderate,Ibuprofen
+Bone pain loss of height over time,Osteoporosis,High,Calcium
+Intense headaches nausea sensitivity to light,Migraine,High,Sumatriptan
+Runny nose sore throat cough,Common Cold,Mild,Antihistamine
+Difficulty falling asleep waking up too early,Insomnia,Moderate,Melatonin
+Diarrhea abdominal cramps nausea,Gastroenteritis,Moderate,Pepto-Bismol
+Frequent urination burning sensation cloudy urine,Urinary Tract Infection ,Moderate, Ciproflox
+Heartburn chest pain regurgitation,Acid Reflux,Moderate,Omeprazole
+Itching redness inflammation,Eczema,Moderate,Steroid creams
+Fatigue weakness pale skin,Anemia,Moderate,Iron supplements
+Chest pain heart attack risk fatigue,High Cholesterol,High,Statins
+Facial pain nasal congestion headache,Sinusitis,Moderate,Decongestants
+Loose watery stools abdominal cramps,Diarrhea,Moderate,Loperamide

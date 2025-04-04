@@ -1,0 +1,4 @@
+3 Apollo 4
+4 QuickCure 8
+8 AllHours-Health 15
+12 Daylight-Drugs 10

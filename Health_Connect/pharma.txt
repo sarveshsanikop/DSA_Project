@@ -1,0 +1,10 @@
+0 Sunrise-Pharmacy 22
+3 Apollo 4
+4 QuickCure 8
+5 Dusk-Pharmacy 0
+7 Morning-Meds 20
+8 All-Hours-Health 15
+11 Twilight-Drugs 5
+12 Daylight-Drugs 10
+14 Afternoon-Meds 12
+

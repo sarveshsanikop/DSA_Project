@@ -1,0 +1,10 @@
+
+
+receiver : sanji Sender: sar Message: heyaa
+
+receiver : kalyani
+Sender: sar
+Message: readyy
+receiver : sarvesh
+Sender: ram
+Message: ur appointment booked 
