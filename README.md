@@ -38,7 +38,4 @@
 
 📊 Optimized for efficiency & accessibility 🚀 #HealthTech #DSA #GraphAlgorithms"
 
-👨‍💻 Team Members:
-This project was a collaborative effort with my amazing teammates:
-🔥 Anoop Kadakol
-🔥 Prithvi Ganiger
+
